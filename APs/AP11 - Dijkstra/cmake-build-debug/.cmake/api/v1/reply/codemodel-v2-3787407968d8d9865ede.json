@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AP11___Dijkstra",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AP11___Dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AP11___Dijkstra-Debug-ad302c55217adc8f6bae.json",
+					"name" : "AP11___Dijkstra",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/AP\u00b4s/AP11 - Dijkstra/cmake-build-debug",
+		"source" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/AP\u00b4s/AP11 - Dijkstra"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

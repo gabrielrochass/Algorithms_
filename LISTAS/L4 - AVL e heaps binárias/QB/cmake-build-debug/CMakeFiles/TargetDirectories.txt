@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L4 - AVL e heaps binárias/QB/cmake-build-debug/CMakeFiles/QB.dir
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L4 - AVL e heaps binárias/QB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L4 - AVL e heaps binárias/QB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

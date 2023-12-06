@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/B - Frog/cmake-build-debug/CMakeFiles/B___Frog.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - Frog/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - Frog/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/AP10_Q2/cmake-build-debug/CMakeFiles/AP10_Q2.dir
+C:/Users/gabri/CLionProjects/Algorítmos/AP10_Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/AP10_Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

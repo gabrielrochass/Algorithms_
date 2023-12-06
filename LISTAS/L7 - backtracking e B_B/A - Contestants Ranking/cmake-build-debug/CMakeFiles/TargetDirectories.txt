@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/A - Contestants Ranking/cmake-build-debug/CMakeFiles/A___Contestants_Ranking.dir
+C:/Users/gabri/CLionProjects/Algorítmos/A - Contestants Ranking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/A - Contestants Ranking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

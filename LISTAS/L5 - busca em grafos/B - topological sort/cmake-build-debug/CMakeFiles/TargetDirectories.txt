@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/B - topological sort/cmake-build-debug/CMakeFiles/B___topological_sort.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - topological sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - topological sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

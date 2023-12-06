@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/2º período/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/B - Driving Range/cmake-build-debug/CMakeFiles/B___Driving_Range.dir
+C:/Users/gabri/CLionProjects/2º período/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/B - Driving Range/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/2º período/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/B - Driving Range/cmake-build-debug/CMakeFiles/rebuild_cache.dir

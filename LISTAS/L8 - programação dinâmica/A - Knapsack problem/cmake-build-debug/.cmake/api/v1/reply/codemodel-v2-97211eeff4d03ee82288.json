@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A___Knapsack_problem",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A___Knapsack_problem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A___Knapsack_problem-Debug-3f8ae4c9659579f78303.json",
+					"name" : "A___Knapsack_problem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/LISTAS/L8 - programa\u00e7\u00e3o din\u00e2mica/A - Knapsack problem/cmake-build-debug",
+		"source" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/LISTAS/L8 - programa\u00e7\u00e3o din\u00e2mica/A - Knapsack problem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

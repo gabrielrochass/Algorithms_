@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QA___sending_email",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QA___sending_email::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QA___sending_email-Debug-7ea8740af075de2cfd6a.json",
+					"name" : "QA___sending_email",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/LISTAS/L6 - caminhos m\u00ednimos e MST/QA - sending email/cmake-build-debug",
+		"source" : "C:/Users/gabri/CLionProjects/Algor\u00edtmos/LISTAS/L6 - caminhos m\u00ednimos e MST/QA - sending email"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

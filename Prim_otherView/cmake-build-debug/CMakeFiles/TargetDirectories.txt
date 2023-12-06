@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/Prim_otherView/cmake-build-debug/CMakeFiles/Prim_otherView.dir
+C:/Users/gabri/CLionProjects/Algorítmos/Prim_otherView/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/Prim_otherView/cmake-build-debug/CMakeFiles/rebuild_cache.dir

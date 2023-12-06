@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/B - Spiky Mazes/cmake-build-debug/CMakeFiles/B___Spiky_Mazes.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - Spiky Mazes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/B - Spiky Mazes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/QA - sending email/cmake-build-debug/CMakeFiles/QA___sending_email.dir
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/QA - sending email/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Algorítmos/LISTAS/L6 - caminhos mínimos e MST/QA - sending email/cmake-build-debug/CMakeFiles/rebuild_cache.dir
